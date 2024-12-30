@@ -4,6 +4,8 @@ Sou pós-graduado em engenharia de software apaixonado por DevOps e Cloud.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://linkedin.com/in/mayron-miguel-de-freitas/)
 
+![Mayron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayronmiguel&show_icons=true&theme=dark)  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mayronmiguele&repo=DevOps&theme=radical)
+
 ### Habilidades
 
 <div style="font-family: Arial, sans-serif; line-height: 1.0; padding: 15px;">
@@ -34,6 +36,8 @@ Sou pós-graduado em engenharia de software apaixonado por DevOps e Cloud.
 </div>
 
 </div>
+
+
 
 
 
