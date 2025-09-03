@@ -3,7 +3,7 @@
 Sou pós-graduado em Engenharia de Software, apaixonado por **DevOps** e **Cloud Computing**. 🚀  
 Minha missão é combinar tecnologia e inovação para criar soluções robustas e escaláveis.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayron-miguel-de-freitas/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayronmiguel)  
 ![Mayron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayronmiguel&show_icons=true&theme=dark)  
 
 ---
