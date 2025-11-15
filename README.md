@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Mayron Miguel 🖐️  
   
-Especialista em DevOps e Engenharia de Software, com foco em automação e Infraestrutura como Código (IaC). Sou apaixonado por Cloud Computing e atuo com AWS, Docker, Kubernetes, Terraform e CI/CD para criar soluções robustas e escaláveis.🚀
+Engenheiro de Software e Tecnólogo em DevOps, com expertise no ciclo completo de entrega contínua: Proficiente em containerização (Docker/Kubernetes), pipelines de CI/CD (GitHub Actions), Infraestrutura como Código (Ansible/Terraform) e deploys automatizados em AWS, com sólido domínio de linguagens Back-End (Python, Node.js, Java) e Linux.🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayronmiguel)  
 ![Mayron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayronmiguel&show_icons=true&theme=dark)  
