@@ -7,7 +7,7 @@ Busco compartilhar meu portfólio em **Python** e **DevOps/Infra**, mostrando pr
 ---
 
 ## 📊 GitHub Stats
-![Mayron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayronmiguel&show_icons=true&theme=radical)  
+![Mayron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayronmiguel&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayronmiguel&layout=compact&theme=radical)
 
 ---
