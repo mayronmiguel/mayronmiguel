@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Mayron Miguel  
 
-🚀 **Engenheiro de Software | Tecnólogo em DevOps**  
+🚀 **​SRE | DevOps Engineer | Python Enthusiast**  
 Apaixonado por automação, infraestrutura escalável e desenvolvimento Back-End.  
 Busco compartilhar meu portfólio em **Python** e **DevOps/Infra**, mostrando projetos que unem código limpo e práticas modernas de entrega contínua.  
 
