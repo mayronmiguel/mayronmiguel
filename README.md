@@ -25,11 +25,27 @@ Eu projeto e gerencio ecossistemas de nuvem focados em alta disponibilidade. Min
 ---
 
 ## 📊 Estatísticas
-*Nota: Se os cards não carregarem, pode ser necessário atualizar a página ou verificar sua conexão.*
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mayronmiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayronmiguel&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=mayronmiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=1800" 
+    alt="GitHub stats" 
+  />
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayronmiguel&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" 
+    alt="Top languages" 
+  />
+</p>
+
+<!-- Contador de streak (extra – opcional, mas recomendado) -->
+<p align="left">
+  <img 
+    height="170em"
+    src="https://streak-stats.demolab.com?user=mayronmiguel&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
