@@ -23,32 +23,15 @@ Eu projeto e gerencio ecossistemas de nuvem focados em alta disponibilidade. Min
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
+## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayronmiguel&theme=radical" />
 
-<p align="left">
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=mayronmiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=1800" 
-    alt="GitHub stats" 
-  />
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayronmiguel&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" 
-    alt="Top languages" 
-  />
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayronmiguel&theme=radical" /><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayronmiguel&theme=radical" />
 
-<!-- Contador de streak (extra – opcional, mas recomendado) -->
-<p align="left">
-  <img 
-    height="170em"
-    src="https://streak-stats.demolab.com?user=mayronmiguel&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak"
-  />
-</p>
 
 ---
+
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayronmiguel)
