@@ -1,17 +1,18 @@
 # 👋 Olá, eu sou o Mayron Miguel  
 
-### 🚀 SRE | DevOps Engineer | Python Enthusiast
-**Transformando código em infraestrutura resiliente, escalável e automatizada.**
+### 🚀 Backend Developer | Python • Node.js • Java | DevOps Engineer 
 
-Eu projeto e gerencio ecossistemas de nuvem focados em alta disponibilidade. Minha abordagem une a mentalidade de desenvolvimento **Back-End (Python)** com o rigor operacional de **SRE**, garantindo eficiência através de práticas de **GitOps** e **Observabilidade**.
+Sou um desenvolvedor focado na construção de sistemas escaláveis e na automação de infraestrutura. Atualmente, realizo uma transição estruturada para o Desenvolvimento Backend e DevOps após especialização em Engenharia de Software. Minha abordagem combina o rigor da arquitetura de software com a agilidade das práticas modernas de entrega contínua, garantindo que o código seja não apenas funcional, mas resiliente e escalável.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-**Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+**Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+
 
 **Infraestrutura & Cloud:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
